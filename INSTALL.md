@@ -72,7 +72,7 @@
 2. 输入你的账号和密码，点击「登录」
 3. 登录成功后即可使用全部功能
 
-详细操作请参考 [使用教程](./USER_GUIDE.md)。
+详细操作请参考 [使用教程](./GUIDE.md)。
 
 ---
 
@@ -133,9 +133,9 @@
 
 ## 相关文档
 
-- [使用教程](./USER_GUIDE.md)
-- [项目介绍](./README_USER.md)
-- [隐私政策](./privacy.html)
+- [使用教程](./GUIDE.md)
+- [项目介绍](./README.md)
+- [隐私政策](./privacy.md)
 # Syntix 安装教程
 
 > 适用版本：v0.1.2 | 支持 Chrome / Edge / Firefox / Arc 等主流浏览器
